@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Your+Name!;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;No+Internet%3F+Play+the+Dino+Game+Below!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hariprasath!;Cybersecurity+%26+Cloud+Enthusiast;Python+%7C+DevOps+%7C+Security;No+Internet%3F+Play+the+Dino+Game+Below!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -12,10 +12,10 @@
     <a href="https://github.com/hari-107">
       <img src="https://komarev.com/ghpvc/?username=hari-107&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://linkedin.com/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="https://github.com/hari-107">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -55,18 +55,18 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **awesome web applications & open-source tools**
-- 🌱 I’m currently learning **System Design, Cloud Architecture, and Rust**
-- 👯 I’m looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **JavaScript, TypeScript, Python, React, and Node.js**
-- ⚡ Fun fact: **My high score in the Chrome Dino game is over 10,000!**
+- 🔭 I’m currently building **cybersecurity, cloud, and backend projects**
+- 🌱 I’m currently learning **cloud security, DevOps, threat detection, and secure application development**
+- 👯 I’m looking to collaborate on **cybersecurity, DevOps, and open-source projects**
+- 💬 Ask me about **Python, Linux, networking, cybersecurity fundamentals, and backend development**
+- ⚡ Fun fact: **I enjoy learning by building hands-on projects and solving CTF challenges!**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,linux,vscode&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,docker,git,github,linux,bash&perline=6" alt="Tech Stack" />
 </div>
 
 ---
