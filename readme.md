@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hariprasath!;Cybersecurity+%26+Cloud+Enthusiast;Python+%7C+DevOps+%7C+Security;No+Internet%3F+Play+the+Dino+Game+Below!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hariprasath!;Cybersecurity+%26+Cloud+Enthusiast;Python+%7C+DevOps+%7C+Security" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -20,35 +20,6 @@
     </a>
   </p>
 
-</div>
-
----
-
-### 🦖 Chrome Dino Runner
-
-<div align="center">
-  <!-- Option A: Clickable Animated Dino Game Banner -->
-  <a href="https://chromedino.com/" target="_blank" title="Click to play the real Chrome Dino Game!">
-    <img src="https://raw.githubusercontent.com/prabathlk/prabathlk/master/assets/dino.gif" alt="Chrome Dino Game" width="100%" style="max-width: 700px; border-radius: 8px;" />
-  </a>
-  <br />
-  <kbd><b>⬆️ CLICK THE DINO OR PRESS HERE TO PLAY ⬆️</b></kbd>
-  <p><sub><i>(Since GitHub blocks JavaScript inside Markdown, clicking the game above opens the playable runner!)</i></sub></p>
-
-  <!-- Option B: Interactive Turn-Based Controls (Uncomment if using the GitHub Issue Action script) -->
-  <!--
-  <p>
-    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Cjump&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+jump!">
-      <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_JUMP-2ea44f?style=for-the-badge" alt="Jump" />
-    </a>
-    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Cduck&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+duck!">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DUCK-0969da?style=for-the-badge" alt="Duck" />
-    </a>
-    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Crun&body=Just+click+%27Submit+new+issue%27+to+keep+running!">
-      <img src="https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F_RUN_FORWARD-8250df?style=for-the-badge" alt="Run" />
-    </a>
-  </p>
-  -->
 </div>
 
 ---
@@ -87,7 +58,6 @@
 ### 🐍 Contribution Grid Game
 
 <div align="center">
-  <!-- Works automatically once you enable the GitHub Action workflow in .github/workflows/dino.yml -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari-107/hari-107/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari-107/hari-107/output/github-snake.svg" />
