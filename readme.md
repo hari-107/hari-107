@@ -6,11 +6,11 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=2F81F7" alt="Followers" />
+    <a href="https://github.com/hari-107?tab=followers">
+      <img src="https://img.shields.io/github/followers/hari-107?label=Followers&style=for-the-badge&color=2F81F7" alt="Followers" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/hari-107">
+      <img src="https://komarev.com/ghpvc/?username=hari-107&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,13 +38,13 @@
   <!-- Option B: Interactive Turn-Based Controls (Uncomment if using the GitHub Issue Action script) -->
   <!--
   <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=dino%7Cjump&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+jump!">
+    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Cjump&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+jump!">
       <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_JUMP-2ea44f?style=for-the-badge" alt="Jump" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=dino%7Cduck&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+duck!">
+    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Cduck&body=Just+click+%27Submit+new+issue%27+to+make+the+Dino+duck!">
       <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DUCK-0969da?style=for-the-badge" alt="Duck" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=dino%7Crun&body=Just+click+%27Submit+new+issue%27+to+keep+running!">
+    <a href="https://github.com/hari-107/hari-107/issues/new?title=dino%7Crun&body=Just+click+%27Submit+new+issue%27+to+keep+running!">
       <img src="https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F_RUN_FORWARD-8250df?style=for-the-badge" alt="Run" />
     </a>
   </p>
@@ -74,12 +74,12 @@
 ### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hari-107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-107&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -89,8 +89,8 @@
 <div align="center">
   <!-- Works automatically once you enable the GitHub Action workflow in .github/workflows/dino.yml -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="GitHub Contribution Game" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari-107/hari-107/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari-107/hari-107/output/github-snake.svg" />
+    <img alt="GitHub Contribution Game" src="https://raw.githubusercontent.com/hari-107/hari-107/output/github-snake.svg" width="100%" />
   </picture>
 </div>
